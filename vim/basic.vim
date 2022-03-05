@@ -1,5 +1,5 @@
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-https://github.com/amix/vimrc/blob/master/vimrcs/basic.vim
+" https://github.com/amix/vimrc/blob/master/vimrcs/basic.vim
 
 " Maintainer:
 "       Amir Salihefendic — @amix3k
